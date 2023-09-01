@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1, h2, h3 {
+    color: #333;
+    padding: 10px;
+  }
+  
+  a {
+    text-decoration: none;
+    color:white;
+  }
+  
+  ul {
+    list-style: none;
+    float: right;
+    line-height: -100px;
+    margin-top: 45px;
+
+  }
+  
+  header {
+    background-color: #FFB28F;
+    padding: 20px;
+  }
+  
+  header h1 {
+    margin: 0;
+    height: auto; 
+  }
+  
+  header nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  #destaques {
+    padding: 20px;
+    background-color: #FFE4E1;
+  }
+  
+  #destaques h2 {
+    margin-bottom: 20px;
+  }
+  
+  .produto {
+    display: inline-block;
+    vertical-align: top;
+    width: 200px;
+    margin-right: 20px;
+  }
+  
+  .produto img {
+    width: 200px; 
+    height: 250px;
+    object-fit: cover;
+  }
+  .img-logo{
+    width: 120px;
+  }
+  .produto h3 {
+    margin: 10px 0;
+  }
+  
+  footer {
+    background-color: #FFB28F;
+    padding: 20px;
+    text-align: center;
+  }
+  
