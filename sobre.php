@@ -19,7 +19,7 @@
 <div class="mt-3"></div>
 <h1 class="titulo">Seja bem vindo a loja virtual Tapetes da Fabi!</h1>
 <p class="paragrafo">Tapetes da fabi está atuando desde 2020 como costureira e artesã temos a Fabiana Dos Santos 
-Quirino Bauer criadora e proprietária desta micro-empresa e com a ajuda de sua equipe auxiliadora: Thalia Quirino Bauer
+Quirino Bauer, criadora e proprietária desta micro-empresa e com a ajuda de sua equipe auxiliadora: Thalia Quirino Bauer
 e Thaís Quirino Bauer juntamente com Leonardo Homem De Azevedo</p>
 <h2 class="h2">Para qualquer dúvida ou algum interesse particular chame no nosso contato via whatsapp: (51)998566148 (Fabi) </h2>
 <h2 class="text-center">Confira também em nossas redes sociais <a href="https://instagram.com/tapetesdafabi?igshid=MzRlODBiNWFlZA==" target="blank"><span class="insta">Instagram</span></a> </h2>

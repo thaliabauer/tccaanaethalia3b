@@ -42,21 +42,25 @@
 <img src="img/jogo de banheiro.jpeg" alt="Produto 1">
     <h3>Jogo de banheiro</h3>
     <p>Contém 3 tapetes de 2 metros.
-      <br> R$120,00 </br>
+      <br> R$70,00 </br>
     </p>
     <button class="add carrinho"><a href="addcarrinho.php"><i class="bi bi-cart4"></i></a></button>
 </div>
 <div class="produto">
 <img src="img/tapetesporta.jpeg" alt="Produto 3">
     <h3>Tapetinhos para a porta</h3>
-    <p>Descrição do Produto 3</p>
+    <p>Descrição do Produto 2
+      <br> R$12,00 á unidade </br>
+    </p>
     <button class="add carrinho"><a href="addcarrinho.php"><i class="bi bi-cart4"></i></a></button>
 </div>
 
 <div class="produto">
 <img src="img/tapetecozinha.jpeg" alt="Produto 2">
     <h3>Tapetes para a cozinha</h3>
-    <p></p>
+    <p> Descrição produto 3
+        <br> R$80,00 </br>
+    </p>
     <button class="add carrinho"><a href="addcarrinho.php"><i class="bi bi-cart4"></i></a></button>
 </div>
 </section>
