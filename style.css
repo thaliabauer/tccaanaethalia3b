@@ -12,6 +12,31 @@ body {
     align-items: center;
 }
 
+ .paragrafo {
+    font-size: 28px;
+    border-radius: 12px;
+    margin-left: 30px;
+    text-align: justify;
+}
+
+.h2{
+    font-size: 28px;
+    border-radius: 12px;
+    margin-left: 30px;
+    text-align: center;
+}
+
+span.insta{
+    color: pink;
+    text-decoration: underline;
+}
+.titulo{
+    color: black;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline; 
+}
+
 .left-login {
     width: 50vw;
     height: 100vh;
